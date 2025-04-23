@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem 'dotenv', '~> 2.8'
+gem 'httparty', '~> 0.21'
+gem 'json', '~> 2.6'
+gem 'yaml', '~> 0.2' 
